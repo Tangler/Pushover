@@ -1,6 +1,6 @@
 <?php
 
-namespace Tangler\Module\Smtp;
+namespace Tangler\Module\Pushover;
 
 use Tangler\Core\AbstractModule;
 use Tangler\Core\Interfaces\ModuleInterface;
